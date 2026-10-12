@@ -2,10 +2,12 @@
 
 A native C++ sampling workflow with Python orchestration and diagnostics for Bayesian spatial modelling. The project demonstrates simulation-based computation, numerical integrity checks and repeatable execution across multiple datasets and chains.
 
+> **Reuse status:** No repository-wide software licence has been granted. See [LICENSE_STATUS.md](LICENSE_STATUS.md). The execution instructions below describe the workflow; they do not grant reuse permission.
+
 **Project supervisor: Dr. Zohreh Kaheh.**  
 **Undergraduate collaborator: Jingxuan Hu.**
 
-Dr. Kaheh provided instruction in the project concepts and methods, supervised implementation and guided improvements to the student’s initial code.
+Dr. Kaheh designed the project based on her earlier work, provided the initial design and implementation teaching, supervised the student's initial implementation, and subsequently developed the code further. This contribution description reflects the maintainer's account.
 
 ## Technical focus
 
@@ -40,3 +42,13 @@ R/Rcpp files are excluded because that interface was not executable in the verif
 ## Verification and contributions
 
 See [VERIFICATION.md](VERIFICATION.md) for the tested execution scope and [ATTRIBUTION.md](ATTRIBUTION.md) for supervision and student contributions. This repository contains code and technical documentation only.
+
+## Citation
+
+For authorised use in research, publications or presentations, please cite both contributors:
+
+Kaheh, Z., & Hu, J. (2026). *Bayesian Spatial Modelling with C++ and Python* [Computer software]. GitHub. https://github.com/DR-ZohrehKaheh/bayesian-spatial-modelling
+
+Machine-readable metadata: [CITATION.cff](CITATION.cff). The current citation identifies code snapshot [`2c651dd`](https://github.com/DR-ZohrehKaheh/bayesian-spatial-modelling/tree/2c651dda46214d344f99fa4c9ae2923fe8c6d0b8); cite the exact commit or released version you used. This citation credits the documented collaboration and does not assign copyright or constitute student approval of a licence.
+
+No DOI has been registered by this review. See the [DOI readiness note](LICENSE_STATUS.md#doi-readiness) before archiving a release. No unverified publication title, article DOI or affiliation has been added.

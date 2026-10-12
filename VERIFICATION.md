@@ -17,3 +17,7 @@ Python 3.12.14 on Linux. Native code was compiled with GCC 13.3.0 using C++17. V
 ## Documentation review
 
 Repository documentation was reviewed on 11 October 2026 for consistency with the included source files and recorded execution scope. This editorial review did not change executable code or rerun training. `SHA256SUMS.txt` records the current file contents.
+
+## Rights and citation documentation — 12 October 2026
+
+A documentation-only review added the reuse-status notice, contributor-rights register and software citation, and clarified the contribution account. Executable sources, dependencies and configuration are unchanged from commit `2c651dda46214d344f99fa4c9ae2923fe8c6d0b8`. No training or scientific validation was rerun for this update. Existing execution receipts do not establish publication or licensing authority. `SHA256SUMS.txt` was refreshed for the current files, excluding itself.
