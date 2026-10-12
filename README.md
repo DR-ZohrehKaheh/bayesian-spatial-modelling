@@ -51,6 +51,6 @@ For authorised use in research, publications or presentations, please cite both 
 
 Kaheh, Z., & Hu, J. (2026). *Bayesian Spatial Modelling with C++ and Python* [Computer software]. GitHub. https://github.com/DR-ZohrehKaheh/bayesian-spatial-modelling
 
-Machine-readable metadata: [CITATION.cff](CITATION.cff). The current citation identifies code snapshot [`2c651dd`](https://github.com/DR-ZohrehKaheh/bayesian-spatial-modelling/tree/2c651dda46214d344f99fa4c9ae2923fe8c6d0b8); cite the exact commit or released version you used. This citation credits the documented collaboration and does not assign copyright or constitute student approval of a licence.
+Citation formats: [CITATION.cff](CITATION.cff) and [BibTeX](CITATION.bib). The current citation identifies code snapshot [`2c651dd`](https://github.com/DR-ZohrehKaheh/bayesian-spatial-modelling/tree/2c651dda46214d344f99fa4c9ae2923fe8c6d0b8); cite the exact commit or released version you used. This citation credits the documented collaboration and does not assign copyright or constitute student approval of a licence.
 
-No DOI has been registered by this review. See the [DOI readiness note](LICENSE_STATUS.md#doi-readiness) before archiving a release. No unverified publication title, article DOI or affiliation has been added.
+No DOI has yet been assigned by this workflow. [Prepared Zenodo metadata](ZENODO_DEPOSIT.md) supports a DOI deposit with the current publication-only rights status. A future registered DOI will be added here and to the citation files. No unverified article DOI or affiliation has been added.
