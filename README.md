@@ -45,6 +45,8 @@ See [VERIFICATION.md](VERIFICATION.md) for the tested execution scope and [ATTRI
 
 ## Citation
 
+The maintainer requests scholarly citation and retention of contributor credit. MIT is the intended future software licence after rights clearance; currently confirmed student-code permission covers public publication only. See [LICENSE_STATUS.md](LICENSE_STATUS.md#maintainer-clarification--12-october-2026). No open-source reuse licence is in force for the repository as a whole.
+
 For authorised use in research, publications or presentations, please cite both contributors:
 
 Kaheh, Z., & Hu, J. (2026). *Bayesian Spatial Modelling with C++ and Python* [Computer software]. GitHub. https://github.com/DR-ZohrehKaheh/bayesian-spatial-modelling
