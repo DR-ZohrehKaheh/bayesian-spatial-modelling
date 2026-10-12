@@ -49,8 +49,8 @@ The maintainer requests scholarly citation and retention of contributor credit. 
 
 For authorised use in research, publications or presentations, please cite both contributors:
 
-Kaheh, Z., & Hu, J. (2026). *Bayesian Spatial Modelling with C++ and Python* [Computer software]. GitHub. https://github.com/DR-ZohrehKaheh/bayesian-spatial-modelling
+Kaheh, Z., & Hu, J. (2026). *Bayesian Spatial Modelling with C++ and Python* (Version snapshot-717b3bc) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23312496
 
-Citation formats: [CITATION.cff](CITATION.cff) and [BibTeX](CITATION.bib). The current citation identifies code snapshot [`2c651dd`](https://github.com/DR-ZohrehKaheh/bayesian-spatial-modelling/tree/2c651dda46214d344f99fa4c9ae2923fe8c6d0b8); cite the exact commit or released version you used. This citation credits the documented collaboration and does not assign copyright or constitute student approval of a licence.
+Citation formats: [CITATION.cff](CITATION.cff) and [BibTeX](CITATION.bib). The current citation identifies archived version `snapshot-717b3bc`, source commit [`717b3bc`](https://github.com/DR-ZohrehKaheh/bayesian-spatial-modelling/tree/717b3bc1e143587203edcdd56f2aeb8ae257c6f1); cite the exact commit or archived version you used. This citation credits the documented collaboration and does not assign copyright or constitute student approval of a licence.
 
-No DOI has yet been assigned by this workflow. [Prepared Zenodo metadata](ZENODO_DEPOSIT.md) supports a DOI deposit with the current publication-only rights status. A future registered DOI will be added here and to the citation files. No unverified article DOI or affiliation has been added.
+Archived version DOI: [10.5281/zenodo.23312496](https://doi.org/10.5281/zenodo.23312496). [Zenodo record](https://zenodo.org/records/23312496) and [deposit verification](ZENODO_DEPOSIT.md). Published 12 October 2026 with the existing publication-only rights status; the DOI grants no reuse permission. No unverified article DOI or affiliation has been added.

@@ -1,5 +1,5 @@
 # Citation metadata is not a reuse licence. See LICENSE_STATUS.md.
-# No DOI or software licence is asserted while clearance is pending.
+# The DOI identifies an archived version; no software reuse licence is granted.
 cff-version: 1.2.0
 type: software
 message: "For authorised use of this software, please cite both contributors using this record. Citation does not grant permission to reuse the code."
@@ -10,10 +10,12 @@ authors:
   - family-names: "Hu"
     given-names: "Jingxuan"
 repository-code: "https://github.com/DR-ZohrehKaheh/bayesian-spatial-modelling"
-url: "https://github.com/DR-ZohrehKaheh/bayesian-spatial-modelling"
-commit: "2c651dda46214d344f99fa4c9ae2923fe8c6d0b8"
-# Date the cited code snapshot was made public; not a tagged GitHub release.
-date-released: "2026-10-11"
+url: "https://zenodo.org/records/23312496"
+doi: "10.5281/zenodo.23312496"
+version: "snapshot-717b3bc"
+commit: "717b3bc1e143587203edcdd56f2aeb8ae257c6f1"
+# Publication date of the archived Zenodo version.
+date-released: "2026-10-12"
 abstract: "Native C++ Bayesian spatial sampling workflow with Python orchestration and diagnostics."
 keywords:
   - "Bayesian statistics"
