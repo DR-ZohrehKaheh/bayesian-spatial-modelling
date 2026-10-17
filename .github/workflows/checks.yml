@@ -1,0 +1,25 @@
+name: Dataset-independent checks
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7.0.1
+      - uses: actions/setup-python@v7.0.0
+        with:
+          python-version: '3.12'
+          cache: pip
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+      - name: Compile Python sources
+        run: python -m compileall -q .
+      - name: Compile native tests
+        run: g++ -O3 -std=c++17 test_bd_secr_core.cpp -o /tmp/test_bd_secr_core
+      - name: Run native synthetic checks
+        run: /tmp/test_bd_secr_core
