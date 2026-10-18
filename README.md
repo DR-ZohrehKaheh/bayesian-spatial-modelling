@@ -4,12 +4,12 @@
 
 A native C++ sampling workflow with Python orchestration and diagnostics for Bayesian spatial modelling. The project demonstrates simulation-based computation, numerical integrity checks and repeatable execution across multiple datasets and chains.
 
-> **Reuse status:** No repository-wide software licence has been granted. See [LICENSE_STATUS.md](LICENSE_STATUS.md). The execution instructions below describe the workflow; they do not grant reuse permission.
+**Availability:** Public source code for technical review and citation. See [publication and reuse terms](LICENSE_STATUS.md).
 
 **Project design, supervision and subsequent development: Dr. Zohreh Kaheh.**  
 **Initial implementation (undergraduate collaborator): Jingxuan Hu.**
 
-The project builds on Dr. Kaheh’s earlier work. She provided the initial design and implementation teaching, supervised the student’s initial implementation, and developed the code further. See [ATTRIBUTION.md](ATTRIBUTION.md) for the maintainer’s contribution account and disclosed AI assistance.
+The project builds on Dr Kaheh’s earlier research and supervised student collaboration. See [ATTRIBUTION.md](ATTRIBUTION.md) for the contribution details.
 
 ## Technical focus
 
@@ -47,13 +47,13 @@ See [VERIFICATION.md](VERIFICATION.md) for the tested execution scope and [ATTRI
 
 ## Citation
 
-If you refer to this work or use it with the necessary permission, please cite both contributors:
+Please cite the archived software and credit both contributors:
 
 Kaheh, Z., & Hu, J. (2026). *Bayesian Spatial Modelling with C++ and Python* (Version snapshot-717b3bc) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23312496
 
 Download [CITATION.cff](CITATION.cff) or [BibTeX](CITATION.bib). The [archived version](https://zenodo.org/records/23312496) is `snapshot-717b3bc`, from source commit [`717b3bc`](https://github.com/DR-ZohrehKaheh/bayesian-spatial-modelling/tree/717b3bc1e143587203edcdd56f2aeb8ae257c6f1). Cite the version or commit you used; later GitHub documentation may differ from the fixed archive. See [ZENODO_DEPOSIT.md](ZENODO_DEPOSIT.md) for the deposit record and checksums.
 
-Please retain contributor credit. Citation and DOI registration do not grant reuse permission or transfer copyright; see [LICENSE_STATUS.md](LICENSE_STATUS.md).
+For reuse permissions, see [LICENSE_STATUS.md](LICENSE_STATUS.md).
 
 ## Questions and corrections
 
@@ -62,3 +62,4 @@ For technical questions or documentation corrections, [open an issue](https://gi
 ## Continuous checks
 
 [GitHub Actions](https://github.com/DR-ZohrehKaheh/bayesian-spatial-modelling/actions/workflows/checks.yml) runs the existing dataset-independent checks on Python 3.12 and Ubuntu. This covers utility tests or synthetic native/model checks, not the complete data-dependent research pipeline or scientific conclusions. The workflow does not publish generated research outputs.
+

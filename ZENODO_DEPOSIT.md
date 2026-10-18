@@ -24,15 +24,7 @@ Public record: https://zenodo.org/records/23312496
 | Rights | Custom rights notice below; no MIT, CC-BY or CC0 licence applied to the software |
 | Archived source snapshot | [`717b3bc1e143587203edcdd56f2aeb8ae257c6f1`](https://github.com/DR-ZohrehKaheh/bayesian-spatial-modelling/tree/717b3bc1e143587203edcdd56f2aeb8ae257c6f1) |
 
-No affiliation, ORCID, funding identifier or related article DOI has been supplied for this deposit.
-
-### Description
-
-Native C++ Bayesian spatial sampling workflow with Python orchestration, synthetic input generation and diagnostics. Includes software and technical documentation only. R/Rcpp interfaces, private traces and the extended research experiment are excluded. Execution checks do not establish convergence or identifiability for arbitrary inputs.
-
-Dr. Zohreh Kaheh designed the project based on her earlier work, provided the initial design and implementation teaching, supervised the initial implementation by Jingxuan Hu, and subsequently developed the code further. This account is supplied by the maintainer. Later revisions do not have a complete per-person edit history. Repository preparation and technical documentation involved AI assistance as described in ATTRIBUTION.
-
-The current permission scope reported by the maintainer covers public publication only. The published deposit preserves that scope and grants no general reuse rights. Please cite both named contributors for authorised scholarly use. Citation does not grant permission to reuse the code.
+The published description and contributor details are available in the linked Zenodo record. The archive preserves the source and documentation at the identified commit; later repository edits do not alter that snapshot.
 
 ### Custom rights notice
 
@@ -48,7 +40,6 @@ This is a statement of the existing rights status, not a new software licence. Z
 
 ## Deposit verification
 
-- The signed-in account was checked for existing deposits before creation.
 - One software record was published for this repository, with Zohreh Kaheh and the student named above as creators.
 - The public record was checked for title, creator order, publication date, version, source commit, uploaded filename and custom rights notice.
 - Zenodo's reported archive MD5 matches the local archive. The SHA256 below identifies the reviewed bytes.
@@ -73,3 +64,4 @@ This immutable snapshot predates this deposit report and the DOI-bearing citatio
 - [Zenodo: Policies on eligible depositors and ownership](https://about.zenodo.org/policies/)
 
 Official documentation checked on 12 October 2026.
+

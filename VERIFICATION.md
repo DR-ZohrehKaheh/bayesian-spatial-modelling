@@ -14,22 +14,6 @@ R/Rcpp and extended research experiments are excluded and were not verified.
 
 Python 3.12.14 on Linux. Native code was compiled with GCC 13.3.0 using C++17. Verified Python dependencies are pinned in `requirements.txt`: `matplotlib==3.10.8`, `numpy==2.3.5`, `pandas==2.2.3`, `scipy==1.17.0`.
 
-## Documentation review
+## Version and archive
 
-Repository documentation was reviewed on 11 October 2026 for consistency with the included source files and recorded execution scope. This editorial review did not change executable code or rerun training. `SHA256SUMS.txt` records the current file contents.
-
-## Rights and citation documentation — 12 October 2026
-
-A documentation-only review added the reuse-status notice, contributor-rights register and software citation, and clarified the contribution account. Executable sources, dependencies and configuration are unchanged from commit `2c651dda46214d344f99fa4c9ae2923fe8c6d0b8`. No training or scientific validation was rerun for this update. Existing execution receipts do not establish publication or licensing authority. `SHA256SUMS.txt` was refreshed for the current files, excluding itself.
-
-The subsequent clarification on 12 October 2026 records publication-only permission and the maintainer's acceptance of standard notice retention with a scholarly citation request. MIT remains conditional and was not added. This follow-up changes documentation and its checksums only.
-
-DOI preparation added a BibTeX export and a Zenodo metadata/rights record on 12 October 2026. At that stage, these were preparation documents and no deposit or DOI had been created. Source code and the existing CFF citation were unchanged; documentation checksums were refreshed.
-
-## DOI publication — 12 October 2026
-
-Archived snapshot `717b3bc1e143587203edcdd56f2aeb8ae257c6f1` was published as `snapshot-717b3bc` in [Zenodo](https://zenodo.org/records/23312496), DOI `10.5281/zenodo.23312496`. The public record, both creator names, archive checksum and custom rights notice were checked. Citation files and README now identify this archived version. The original archive retains its pre-DOI citation files. Source code, dependency pins and scientific execution scope are unchanged; no training was rerun. See [ZENODO_DEPOSIT.md](ZENODO_DEPOSIT.md). Documentation checksums were refreshed.
-
-## Portfolio presentation review — 12 October 2026
-
-The README navigation, contribution summary, citation guidance and issue-reporting instructions were reviewed for clarity and consistency with the existing rights record. Documentation links and citation identifiers were checked. Source code, dependencies, configuration and the archived DOI version are unchanged; no training or scientific validation was rerun. `SHA256SUMS.txt` was refreshed for the current files.
+The execution record above applies to the documented software and inputs. The archived DOI version, source commit and checksums are recorded in [ZENODO_DEPOSIT.md](ZENODO_DEPOSIT.md). Later editorial updates do not rerun or extend the scientific validation.

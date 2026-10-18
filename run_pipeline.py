@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # Project supervisor: Dr. Zohreh Kaheh.
 # Undergraduate project collaborator: Jingxuan Hu.
-# Portfolio execution wrapper prepared with AI assistance.
 """Compile, run and verify the native simulation workflow."""
 import argparse
 from pathlib import Path
@@ -50,3 +49,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
