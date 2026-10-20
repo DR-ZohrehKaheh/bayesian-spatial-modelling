@@ -6,9 +6,9 @@ The released `run_pipeline.py` compiled and ran the synthetic native checks and 
 
 Execution receipt: private log `native_final.log`, SHA-256 `8934c96f8ea30aa34487c8c05fc2dee87ae3e10d651441374d0d23c7d1359cc7`. No traces or generated plots are distributed.
 
-Verification covers the documented execution path and supplied inputs; it is not certification of research findings or all possible inputs.
+The published verification scope covers the documented execution path and supplied inputs. Independent certification of research findings and validation across other inputs are outside that scope.
 
-R/Rcpp and extended research experiments are excluded and were not verified.
+R/Rcpp interfaces and extended research experiments are outside this published edition and its verification scope.
 
 ## Environment
 

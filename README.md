@@ -1,6 +1,6 @@
 # Bayesian Spatial Modelling with C++ and Python
 
-[Run and inputs](#run) · [Scope](#scope) · [Citation](#citation) · [Contributions](ATTRIBUTION.md) · [Reuse status](LICENSE_STATUS.md)
+[Run and inputs](#run) · [Published scope](#scope-of-the-published-version) · [Citation](#citation) · [Contributions](ATTRIBUTION.md) · [Reuse status](LICENSE_STATUS.md)
 
 A native C++ sampling workflow with Python orchestration and diagnostics for Bayesian spatial modelling. The project demonstrates simulation-based computation, numerical integrity checks and repeatable execution across multiple datasets and chains.
 
@@ -20,7 +20,7 @@ The project builds on Dr Kaheh’s earlier research and supervised student colla
 
 ## Run
 
-The native workflow was verified on Linux with GCC 13.3.0 and Python 3.12.14. The wrapper expects `g++` on PATH; use `--compiler` to select a compatible compiler. Other operating systems and compilers have not been verified. Install `requirements.txt` in an isolated environment, then run from this directory:
+The native workflow was verified on Linux with GCC 13.3.0 and Python 3.12.14. The wrapper expects `g++` on PATH; use `--compiler` to select a compatible compiler. Other operating systems and compilers are outside the documented verification scope. Install `requirements.txt` in an isolated environment, then run from this directory:
 
 ```bash
 python -m pip install -r requirements.txt
@@ -37,7 +37,7 @@ Source files:
 - `summarize_recovery.py`: summaries and diagnostics of generated outputs.
 - `run_pipeline.py`: compilation, execution and integrity checks.
 
-## Scope
+## Scope of the published version
 
 This release covers the native C++ workflow with Python orchestration. R/Rcpp interfaces and extended research experiments are outside its scope. Numerical integrity checks do not establish identifiability or convergence for arbitrary data. Research traces and paper results are excluded.
 
