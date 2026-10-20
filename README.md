@@ -39,7 +39,7 @@ Source files:
 
 ## Scope
 
-R/Rcpp files are excluded because that interface was not executable in the verification environment. The larger extended research experiment is not part of this release and is not claimed to have been rerun. Passing execution checks is not proof of identifiability, convergence for arbitrary data or scientific validity. No recorded research traces or paper results are distributed.
+This release covers the native C++ workflow with Python orchestration. R/Rcpp interfaces and extended research experiments are outside its scope. Numerical integrity checks do not establish identifiability or convergence for arbitrary data. Research traces and paper results are excluded.
 
 ## Verification and contributions
 
